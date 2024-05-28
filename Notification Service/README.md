@@ -1,4 +1,4 @@
-# React + Vite
+# Notification Toast as service (React + Javascript + Vite)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
