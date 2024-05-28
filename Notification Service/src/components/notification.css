@@ -1,0 +1,57 @@
+.notification {
+    padding: 15px;
+    margin: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.error {
+   background-color: red; 
+}
+
+.success {
+  background-color: lightgreen;
+}
+
+.info {
+  background-color: lightblue;
+}
+
+.warning {
+   background-color: lightyellow;
+}
+
+.closeIcon {
+    margin-left: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.top-left {
+    position: fixed;
+    top: 20px;
+    left: 20px
+}
+
+.top-right {
+    position: fixed;
+    top: 20px;
+    right: 20px
+}
+
+.bottom-left {
+    position: fixed;
+    bottom: 20px;
+    left: 20px
+}
+
+.bottom-right {
+    position: fixed;
+    bottom: 20px;
+    right: 20px
+}
+
